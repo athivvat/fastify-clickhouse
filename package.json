@@ -4,7 +4,7 @@
   "description": "Fastify ClickHouse connection plugin",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "standard": "standard"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,8 @@
   "dependencies": {
     "clickhouse": "^2.2.1",
     "fastify-plugin": "^3.0.0"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3"
   }
 }
