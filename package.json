@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/athivvat/fastify-clickhouse#readme",
   "dependencies": {
+    "clickhouse": "^2.2.1",
     "fastify-plugin": "^3.0.0"
   }
 }
