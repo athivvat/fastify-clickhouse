@@ -4,6 +4,7 @@
   "description": "Fastify ClickHouse connection plugin",
   "main": "index.js",
   "scripts": {
+    "test": "tap",
     "standard": "standard"
   },
   "repository": {
@@ -26,6 +27,7 @@
     "fastify-plugin": "^3.0.0"
   },
   "devDependencies": {
-    "standard": "^16.0.3"
+    "standard": "^16.0.3",
+    "tap": "^14.11.0"
   }
 }
