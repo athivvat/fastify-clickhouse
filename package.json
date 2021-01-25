@@ -1,0 +1,27 @@
+{
+  "name": "fastify-clickhouse",
+  "version": "1.0.0",
+  "description": "Fastify ClickHouse connection plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athivvat/fastify-clickhouse.git"
+  },
+  "keywords": [
+    "fastify",
+    "clickhouse",
+    "fastify-plugin"
+  ],
+  "author": "Athiwat Hirunworawongkun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/athivvat/fastify-clickhouse/issues"
+  },
+  "homepage": "https://github.com/athivvat/fastify-clickhouse#readme",
+  "dependencies": {
+    "fastify-plugin": "^3.0.0"
+  }
+}
